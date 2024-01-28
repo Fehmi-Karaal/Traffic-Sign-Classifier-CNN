@@ -25,6 +25,29 @@ For example, if you see a path like `/content/drive/My Drive/Techcareer_AI_Bootc
 
 Failure to update the file paths will result in errors such as `FileNotFoundError` or `OSError`, and the code will not execute as intended. Double-check all paths before attempting to run any scripts.
 
+## Dataset
+
+The dataset used for training the traffic sign classification model is available on Google Drive. You can access it using the following link:
+
+[Traffic Sign Classification Dataset](https://drive.google.com/drive/folders/1HQTqJAS6OMmqW9A83hQb9rznrGBF6HXl?usp=sharing)
+
+### Instructions for Using the Dataset:
+
+1. **Accessing the Data**: Click on the link above to view and download the dataset files.
+
+2. **Download the Data**: You can download the entire folder or specific files. If you are using Google Colab, you can mount your Google Drive and access the files directly in your notebooks.
+
+3. **Data Structure**: The dataset is organized into different folders, each representing a category of traffic signs such as 'stop', 'speedlimit', 'crosswalk', and 'trafficlight'. Make sure to maintain this structure when you use the data for training the model.
+
+4. **Updating File Paths**: When using the dataset in the provided code or Jupyter notebooks, make sure to update the file paths according to where you have stored the dataset on your local machine or Google Drive.
+
+### Important Note:
+
+If you encounter any issues with accessing or using the dataset, please verify that you have the necessary permissions to view and download the files from Google Drive. If the link is not accessible, or you need additional assistance, feel free to reach out to the repository maintainer.
+
+---
+
+Remember to respect the terms of use and licensing for the dataset, and provide proper attribution if required.
 
 
 ## Contributing
