@@ -27,5 +27,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 
 ## Acknowledgments
 
-* Special thanks to the Techcareer AI Bootcamp for the datasets.
+
 * Inspired by TensorFlow and Keras documentation.
